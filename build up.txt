@@ -1,0 +1,20 @@
+embed in cameras and other devices to watch actions and send distress signals to authorities
+=> detects accidents, fire outbreaks, theft and other criminal actions
+=> can be installed on phones, road cameras and even home cameras
+How it works
+=> installed on a device, gains acceess to camera and studies people's behaviors. In case of violence or accidents, it will send warnings to nearby authorities with footage and location or the events.
+=> will be fed with data set models that will be compared with real time events to make decisions.
+
+Requirements
+=> React Js (front end)
+=> Talk Js (for communicating to authorities)
+=> Node Js (to access the device's camera)
+=> Tensor Js (for machine learning)
+
+Queries
+=> How will the communications be made
+* through emails
+* can make calls to toll free numbers eg police & fire brigade
+=> can make calls to the admins incase if installed in homes
+=> how can footage be sent freely.
+=> is it possible to make a call without a simcard
